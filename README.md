@@ -29,3 +29,9 @@ npm run build
 构建结果在源码包的 `docs/` 目录。将该目录中的网页文件上传到这个仓库的根目录即可更新。
 GitHub Pages 发布源为 `main` 分支、根目录 `/`。
 源码包没有原始电子书、账号凭据或个人学习记录。
+
+## 许可证
+
+项目程序代码采用 [MIT 许可证](./LICENSE)，版权声明为 `Copyright (c) 2026 qslg`。
+词库数据、原始学习资料、外部发音音频不在本项目的 MIT 授权范围内，详见 [许可范围](./LICENSE_SCOPE.md)。
+React、Lucide 等第三方组件保留自己的许可与版权声明，详见 [第三方声明](./THIRD_PARTY_NOTICES.md)。
